@@ -23,7 +23,7 @@ npm install -g generator-angular
 
 _we are good to go!_
 
-Generate first our Angular skeleton
+Generate our first Angular skeleton
 ---
 inside the folder you want your application to be, just enter this:
 ```sh
