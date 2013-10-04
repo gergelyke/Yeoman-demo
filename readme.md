@@ -58,6 +58,7 @@ angular.module('yeomanTutorialApp')
 ```sh
 grunt server
 ```
+_See the magic happen! :)_
 
 A little about Bower
 ---
@@ -74,5 +75,3 @@ next time you only have to run
 bower install
 ```
 and Bower will know, what dependencies should it install
-_See the magic happen! :)_
-    
