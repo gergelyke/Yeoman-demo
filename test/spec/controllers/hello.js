@@ -16,7 +16,8 @@ describe('Controller: HelloCtrl', function () {
     });
   }));
 
-  it('should attach a list of awesomeThings to the scope', function () {
-    expect(scope.awesomeThings.length).toBe(3);
+  it('should modify the name attr to world', function () {
+    scope.name = 'world';
+    expect(scope.name).toBe('world');
   });
 });
