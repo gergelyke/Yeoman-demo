@@ -59,5 +59,20 @@ angular.module('yeomanTutorialApp')
 grunt server
 ```
 
+A little about Bower
+---
+searching for libraries
+```sh
+bower search jquery
+```
+install libraries (notice the --save flag!, check bower.json after running it)
+```sh
+bower install jquery --save
+```
+next time you only have to run 
+```sh
+bower install
+```
+and Bower will know, what dependencies should it install
 _See the magic happen! :)_
     
